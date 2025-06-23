@@ -1,0 +1,16 @@
+BUG REPORT
+
+ID: BR-002  
+Title: Register gagal tanpa email  
+Environment: Windows 10, Chrome 123  
+Steps:
+1. Buka halaman register  
+2. Kosongkan field email  
+3. Klik tombol "Register"  
+Expected Result: Muncul pesan error “Email wajib diisi”  
+Actual Result: Tidak muncul pesan apapun  
+Severity: Medium  
+Status: Open  
+
+Reporter: Yola Lestari  
+Tanggal: 23 Juni 2025
